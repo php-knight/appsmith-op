@@ -1,0 +1,52 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 10,
+  "boxShadow": "none",
+  "buttonColor": "#ef4444",
+  "buttonVariant": "PRIMARY",
+  "disabledWhenInvalid": false,
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicPropertyPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "isDefaultClickDisabled": true,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "cvogsrjwab",
+  "leftColumn": 15,
+  "minWidth": 120,
+  "mobileBottomRow": 8,
+  "mobileLeftColumn": 28,
+  "mobileRightColumn": 44,
+  "mobileTopRow": 4,
+  "needsErrorInfo": false,
+  "onClick": "{{JSObject1.getReleaselist()}}",
+  "parentColumnSpace": 12.71875,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "placement": "CENTER",
+  "recaptchaType": "V2",
+  "renderMode": "CANVAS",
+  "resetFormOnClick": true,
+  "responsiveBehavior": "hug",
+  "rightColumn": 22,
+  "text": "查询",
+  "topRow": 6,
+  "type": "BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "oopw6y3ffw",
+  "widgetName": "dom_find_but"
+}
